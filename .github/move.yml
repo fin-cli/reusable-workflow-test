@@ -1,7 +1,7 @@
 # Configuration for move-issues - https://github.com/dessant/move-issues
 
 # Repository to extend settings from
-_extends: wp-cli/wp-cli
+_extends: fp-cli/fp-cli
 
 # Delete the command comment when it contains no other content
 # deleteCommand: true
